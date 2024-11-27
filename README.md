@@ -1,7 +1,7 @@
 # autoLikeShurmanos
 Pulsa automaticamente el botón like de todas la respuestas en un post para subir de rango.
 
-![image](https://github.com/user-attachments/assets/3f574c04-b484-4476-8a62-cae93cc12ed5)
+
 
 ![image](https://github.com/user-attachments/assets/efa8a169-c33a-47ed-8a7f-47b6ea36174e)
 
